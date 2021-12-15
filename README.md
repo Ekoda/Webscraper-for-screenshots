@@ -13,7 +13,7 @@
 <p>2. Configure the getScreens.command file with a text editor and add the directory where you have the screenScraper.js file stored.</p>
 
 <p>3. Open the Enter-Pages.txt file and add the websites you want to get the screenshot of, seperating each website with a comma ","</p>
-<blockquote>https://pontusblomqvist.se/,<br> https://www.google.com/, https://www.regeringen.se/</blockquote>
+<blockquote>#Enter-Pages.txt<br>https://pontusblomqvist.se/,<br> https://www.google.com/,<br> https://www.regeringen.se/</blockquote>
 
 <p>4. Run the getScreens.command file</p>
 
