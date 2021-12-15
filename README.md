@@ -6,7 +6,7 @@
 
 <h2>How to use</h2>
 
-<p>1. Install pupeteer: npm install puppeteer puppeteer-extra puppeteer-extra-plugin-adblocker. </p>
+<p>1. Install pupeteer. <q>npm install puppeteer puppeteer-extra puppeteer-extra-plugin-adblocker</q> </p>
 
 <p>2. Configure the getScreens.command file with a text editor and add the directory where you have the screenScraper.js file stored.</p>
 
