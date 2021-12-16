@@ -1,5 +1,5 @@
-<h2># Webscraper for screenshots</h2>
-<h3>A web scraping tool for collecting screenshots of websites used to automate work tasks utilizing pupeteer with an extension for adblock.</h3>
+<h2># Webscraper</h2>
+<h3>A web scraping tool for collecting screenshots of websites</h3>
 
 <p>The goal was to automate a worktask consisting of collecting screenshots of websites manually every week to upload to a public relations company database to show their work for clients. It was tedious work and nothing humans should spend their time on, so I built a webscraper automating a lot of the repetetive elements - allowing the work to be done in half of the time.</p>
 
