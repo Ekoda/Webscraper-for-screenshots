@@ -1,5 +1,5 @@
 <h2># Webscraper</h2>
-<h3>A web scraping tool for automating collection of screenshots of websites</h3>
+<h3>A web scraping tool for automating collection of screenshots of websites written in Node.js</h3>
 
 <h3>How to use</h3>
 
